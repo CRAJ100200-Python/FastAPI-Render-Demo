@@ -1,0 +1,17 @@
+documents = [
+    "Employees are entitled to 20–22 days of paid annual leave per year. Work-from-home is permitted for up to 3 days weekly with prior manager approval. Health coverage includes the employee, spouse, and up to two dependent children.",    
+    "The standard work schedule is 9:00 AM to 6:00 PM with a one-hour break. Flexible start times between 8:00 AM and 10:00 AM are allowed, provided total working hours are completed.",    
+    "The organization observes approximately 10–12 public holidays annually. The official holiday calendar is published at the beginning of each year.",    
+    "Employees are eligible for 10–12 days of paid sick leave annually. A medical certificate may be required if leave extends beyond two consecutive working days.",    
+    "Parental leave includes up to 14–16 weeks of paid maternity leave and 3–4 weeks of paid paternity leave. Additional unpaid leave may be granted in accordance with applicable laws.",    
+    "Unused annual leave can be carried forward up to a maximum of 5–7 days into the next year. Leave encashment is generally not provided.",    
+    "Overtime work must be approved in advance by a supervisor. Compensation may be provided as additional pay (approximately 1.5x rate) or compensatory time off.",    
+    "Hybrid work arrangements allow employees to work remotely for part of the week, subject to role requirements. Employees must remain available during core collaboration hours, typically between 10:00 AM and 4:00 PM.",    
+    "Employees are provided with necessary work equipment, including a laptop. Certain roles may qualify for a monthly allowance to support home office expenses.",    
+    "Business expenses must be submitted within 30 days using the company’s expense system. Reasonable travel and accommodation costs are reimbursed, with receipts required for higher-value claims.",    
+    "Medical insurance plans typically cover the employee and immediate family members. Optional extensions for additional dependents may be available at extra cost.",    
+    "Salaries are processed on a monthly basis, typically on the last working day. Approved reimbursements are included in subsequent payroll cycles.",    
+    "Employees are required to provide a notice period of around 30 days when resigning. In some cases, payment in lieu of notice may be applied.",    
+    "The company maintains a strict policy against harassment, discrimination, and misconduct. Violations may result in disciplinary action, including termination.",    
+    "All employees must comply with IT security and acceptable-use policies. Confidential information must not be shared outside authorized systems or personnel.",
+]
