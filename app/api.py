@@ -10,3 +10,9 @@ def read_root():
 @app.get("/health")
 def health():
     return {"status": "OK"}
+
+
+
+@app.head("/")
+def head():
+    return {"status": "OK"}
